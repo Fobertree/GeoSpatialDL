@@ -1,0 +1,7 @@
+.python-version
+uv.lock
+Data
+
+# tmp
+tmp.txt
+test.*
