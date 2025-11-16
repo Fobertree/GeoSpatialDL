@@ -5,3 +5,7 @@ Data
 # tmp
 tmp.txt
 test.*
+tmp.json
+environment2.py
+environment3.py
+*.png

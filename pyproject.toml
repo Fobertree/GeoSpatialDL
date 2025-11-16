@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "playwright>=1.56.0",
-    "selenium>=4.38.0",
+    "pyautogui>=0.9.54",
+    "pygetwindow>=0.0.9",
     "torchvision>=0.24.1",
 ]
